@@ -34,7 +34,7 @@ _In the process of learning  Front End Development_
         }
 ```
 * __Experiens:__
-    [CV](https://github.com/AndreWAr85/rsschool-cv.git)
+    [CV](https://github.com/AndreWAr85/rsschool-cv/blob/gh-pages/cv.md)
 * __Edukation:__
 
     + University: Grodno State Agrarian University
