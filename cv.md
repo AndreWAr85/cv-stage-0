@@ -9,7 +9,7 @@ _In the process of learning  Front End Development_
     + E-mail: andreyarabchyk@gmail.com
     + Discord: AndreWAr#0878
     + GitHud: AndreWAr85
-    + linkedin: https://www.linkedin.com/in/andrei-arabchyk-arabczyk-55940616b/
+    + [linkedin](https://www.linkedin.com/in/andrei-arabchyk-arabczyk-55940616b/)
 
 * __About me:__
 
@@ -34,11 +34,11 @@ _In the process of learning  Front End Development_
         }
 ```
 * __Experiens:__
-    CV https://github.com/AndreWAr85/rsschool-cv.git
+    [CV](https://github.com/AndreWAr85/rsschool-cv.git)
 * __Edukation:__
 
     + University: Grodno State Agrarian University
-    + Courses: Front End (HTML CSS JS // FreelancerLifeStyle) https://www.youtube.com/c/FreelancerLifeStyle/featured
+    + Courses: [Front End (HTML CSS JS // FreelancerLifeStyle)](https://www.youtube.com/c/FreelancerLifeStyle/featured)
 
 * __English:__
 
