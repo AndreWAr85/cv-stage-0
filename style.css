@@ -1,0 +1,22 @@
+html,body{
+	font-size: 22px;
+}
+span.bigred{
+	font-size: 33px;
+	color: red;
+}
+
+.bigred{
+	font-size: 30px;
+	color: green;
+}
+
+.big1 span{
+	color: greenyellow;
+	font-size: 29px;
+}
+.block>p{
+	color: blue;
+	font-size: 20px;
+}
+
