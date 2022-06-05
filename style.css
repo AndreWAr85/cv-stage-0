@@ -1,6 +1,7 @@
 html,body{
 	font-size: 22px;
 }
+
 span.bigred{
 	font-size: 33px;
 	color: red;
@@ -15,8 +16,8 @@ span.bigred{
 	color: greenyellow;
 	font-size: 29px;
 }
+
 .block>p{
 	color: blue;
 	font-size: 20px;
 }
-
