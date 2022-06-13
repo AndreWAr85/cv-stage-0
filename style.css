@@ -17,14 +17,15 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 /*--------------------*/
 
 :root {
-   --first-color: rgba(142, 76, 1, 0.856);
+   --first-color: rgba(197, 82, 11, 0.492);
    --second-color: aliceblue;
+   --tres-color: rgba(59, 58, 58, 0.766);
 }
 
 
 .wrapper {
    min-width: 1450px;
-   background-color: rgba(59, 58, 58, 0.766);
+   background-color: var(--tres-color);
    color: aliceblue;
    font-size: 16px;
    font-family: Georgia, 'Times New Roman', Times, serif;
@@ -39,7 +40,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 .block__header-left {
    background: url(/assets/img/My_foto.jpg);
    margin: 60px 30px 60px 60px;
-	border-radius: 40px;
+	border-radius: 5px;
 	box-shadow: 0 0 10px #000;
    height: 280px;
    min-width: 230px;
@@ -56,7 +57,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
    min-width: 970px;
    justify-content: center;
    align-items: center;
-   border-radius: 40px;
+   border-radius: 5px;
    box-shadow: 0 0 10px #000;
 }
 
@@ -102,7 +103,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 .link {
    color: var(--second-color);
 }
-.content {}
+
 .content__cv {
    display: flex;
    flex-direction: column;
@@ -112,7 +113,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 }
 .cv__element {
    flex: auto;
-   background-color: var(--first-color);
+   background-color: var(--tres-color);
    color: var(--second-color);
    box-shadow: 0 0 10px #000;
    min-width: 850px;
@@ -120,7 +121,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
    text-align: left;
    margin: 20px 10px;
    padding: 40px;
-   border-radius: 40px;
+   border-radius: 5px;
    line-height: 25px;
 }
 
@@ -140,7 +141,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 .footer {
    background-color: var(--first-color);
    display: flex;
-   border-radius: 40px;
+   border-radius: 5px;
    box-shadow: 0 0 10px #000;
    margin: 60px;
    justify-content: center;
