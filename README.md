@@ -1,2 +1,2 @@
-https://AndreWAr85.github.io/rsschool-cv/cv
-https://AndreWAr85.github.io/rsschool-cv/
+https://AndreWAr85.github.io/cv-stage-0/cv
+https://AndreWAr85.github.io/cv-stage-0/
