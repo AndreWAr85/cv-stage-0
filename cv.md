@@ -27,14 +27,21 @@ _In the process of learning  Front End Development_
 
 * __Code exemple:__
 ```
-        public class Multiply {
-            public static Double multiply(Double a, Double b) {
-                return a * b
-            }
-        }
+const array = [1,4,5,8,5,1,2,7,5,2,11]
+let count = 0
+function linearSearch(array, item) {
+    for (let i = 0; i < array.length; i++) {
+        count +=1
+        if (array[i]===item) { 
+             return i; 
+        } 
+    } 
+    return null
+}
 ```
 * __Experiens:__
     [CV](https://github.com/AndreWAr85/rsschool-cv/blob/gh-pages/cv.md)
+    [Online-ZOO](https://rolling-scopes-school.github.io/andrewar85-JSFE2022Q3/online-zoo/pages/main/index-main.html)
 * __Edukation:__
 
     + University: Grodno State Agrarian University
