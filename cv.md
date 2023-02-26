@@ -40,8 +40,10 @@ function linearSearch(array, item) {
 }
 ```
 * __Experiens:__
-    +[CV](https://andrewar85.github.io/cv-stage-0/)
-    +[Online-ZOO](https://rolling-scopes-school.github.io/andrewar85-JSFE2022Q3/online-zoo/pages/main/index-main.html)
+
+    + [CV](https://andrewar85.github.io/cv-stage-0/)
+    + [Online-ZOO](https://rolling-scopes-school.github.io/andrewar85-JSFE2022Q3/online-zoo/pages/main/index-main.html)
+    
 * __Edukation:__
 
     + University: Grodno State Agrarian University
